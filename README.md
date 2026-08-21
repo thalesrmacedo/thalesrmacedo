@@ -7,7 +7,7 @@ Link: https://github.com/thalesrmacedo/credit-risk-decision-engine
 Status: Em construção
 ### 2) Organizador de tarefas para construção de projetos
 Projeto cujo objetivo é criar uma interface interativa utilizando React para organizar o desenvolvimento do projeto "Credit Risk Decision Engine"  
-Link: 
+Link: https://github.com/thalesrmacedo/credit-risk-tracker
 Status: Em construção
 <!--
 **thalesrmacedo/thalesrmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
