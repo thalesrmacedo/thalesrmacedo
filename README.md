@@ -1,5 +1,9 @@
 # Sobre mim
 Meu nome é Thales. Sou mediador pedagógico do curso de Análise e Desenvolvimento de Sistemas - Anhanguera - e profissional de tecnologia com interesse em Data Science. Nesse GitHub você encontrará meus repositórios com projetos desenvolvidos com meus alunos e meus projetos pessoais.  
+##
+  <a href="https://www.linkedin.com/in/thalesrmacedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+##
 ## Meus principais projetos pessoais
 ### 1) Credit Risk Decision Engine
 Projeto cujo objetivo é desenvolver um sistema de risco de crédito para apoiar decisões de concessão de cartões de crédito por bancos.  
